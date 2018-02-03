@@ -1,6 +1,8 @@
 Mutual Authentication Service 
 =============================
 
+This project is in development. Work on the client can be found here: [Mutual Authentication Service Client]
+
 What is Mutual Authentical?
 ---------------------------
 
@@ -47,3 +49,4 @@ The CSR is sent to a secure server which requests an administrator authorise the
 The certificate is sent back to the user and installed into their browser
 
 [Mutual Authentication]: https://en.wikipedia.org/wiki/Mutual_authentication
+[Mutual Authentication Service Client]: https://github.com/Gisleburt/mutual-authentication-service-client
